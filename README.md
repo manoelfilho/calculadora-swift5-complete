@@ -1,4 +1,4 @@
-# calculadora-swift5-complete
+# Calculado com Swift5 - Versão completa
 
 Versão atualizada do projeto calculadora-swift5 (https://github.com/manoelfilho/calculadora-swift5)
 
